@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\data structure projects\\Sort color\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1ECDF85-8E1F-4764-BA04-CCAC8B9DD093}|Sort color\\Sort color.vcxproj|C:\\data structure projects\\Sort color\\Sort color\\Sort color.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B1ECDF85-8E1F-4764-BA04-CCAC8B9DD093}|Sort color\\Sort color.vcxproj|solutionrelative:Sort color\\Sort color.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 1366,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sort color.cpp",
+              "DocumentMoniker": "C:\\data structure projects\\Sort color\\Sort color\\Sort color.cpp",
+              "RelativeDocumentMoniker": "Sort color\\Sort color.cpp",
+              "ToolTip": "C:\\data structure projects\\Sort color\\Sort color\\Sort color.cpp",
+              "RelativeToolTip": "Sort color\\Sort color.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-23T14:58:29.1Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
